@@ -1,6 +1,7 @@
 <html>
-<head>Tarea1 de GitHub</head>
+  <head>Tarea1 de GitHub</head>
+  <title>Mi primera web GIP</title>
   <body>
-    <p>Hola Mundo</p>
+    <p>Mi primera web GIP</p>
   </body>
 </html>

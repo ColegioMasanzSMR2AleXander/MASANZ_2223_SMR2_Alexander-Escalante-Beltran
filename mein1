@@ -1,6 +1,11 @@
 <html>
   <title>Mi primera web GIP</title>
   <head>Tarea1 de GitHub</head>
+  <style>
+  body p {
+  color: blue
+  }
+  </style>
   <body>
     <p>Alexander Escalante Beltran</p>
   </body>
